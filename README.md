@@ -8,6 +8,14 @@ TMDB API : https://developers.themoviedb.org/ RapidAPI : https://rapidapi.com/co
 # Web Scraping:
 Video Link: https://www.youtube.com/watch?v=8NOdgjC1988
 
+https://realpython.com/python-web-scraping-practical-introduction/
+
+#Rest/Fast API
+https://realpython.com/python-api/
+
+# Python and REST APIs: Interacting With Web Services
+https://realpython.com/api-integration-in-python/
+
 # Working with json/sql
 Video link: https://www.youtube.com/watch?v=fFwRC-fapIU
 
